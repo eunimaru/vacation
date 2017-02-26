@@ -1,12 +1,12 @@
-# _Eunice Webpage_
+# _Vacation Ideas_
 
-#### _A quick website about Eunice and her time at Epicodus, 01.26.17_
+#### _A quick vacation survey for your next destination 2.26.17_
 
 #### By _**Eunice Reyes**_
 
 ## Description
 
-_This webpage describes the projects Eunice has done at Epicodus and a detailed description about her background._
+_This webpage is survey for people to choose their next destination._
 
 ## Setup/Installation Requirements
 
@@ -17,11 +17,11 @@ _This webpage describes the projects Eunice has done at Epicodus and a detailed 
 
 ## Known Bugs
 
-_Pictures may look distorted due to lack of knowledge of how to align pictures side by side_
+_survey results not showing_
 
 ## Technologies Used
 
-_HTML and CSS_
+_HTML and CSS and JQuery_
 
 ### License
 
