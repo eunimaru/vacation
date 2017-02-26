@@ -13,19 +13,19 @@ $(function() {
 
 
 if (weatherInput==="a"){
-      $("#tryResult").text("aInput").show();
+      $("#tryResult").text(aInput).show();
 }
  else if (foodInput==="b"){
-      $("tryResult").text("bInput").show();
+      $("tryResult").text(bInput).show();
     }
 else if (ambianceInput ==="c"){
-      $("tryResult").text("cInput").show();
+      $("tryResult").text(cInput).show();
 }
 else if (activitiesInput ==="a"){
-      $("tryResult").text("aInput").show();
+      $("tryResult").text(aInput).show();
 }
 else (typeInput ==="b"){
-      $("tryResult").text("bInput").show();
+      $("tryResult").text(bInput).show();
 }
 
   event.preventDefault();
