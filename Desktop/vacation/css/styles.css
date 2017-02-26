@@ -1,3 +1,7 @@
-.destination{
+#destination{
   display: none;
+}
+
+#survey {
+  padding: 40px;
 }
