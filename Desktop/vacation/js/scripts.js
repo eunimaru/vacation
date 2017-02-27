@@ -7,16 +7,17 @@ $(function() {
     var activitiesInput = $("input:radio[name=activities]:checked").val();
     var typeInput = $("input:radio[name=type]:checked").val();
 
-    var aInput=("You should go to Thailand").val();
-    var bInput=("You should go to France").val();
-    var cInput=("You should go to Italy").val();
+    // var aInput=("You should go to Thailand").val();
+    // var bInput=("You should go to France").val();
+    // var cInput=("You should go to Italy").val();
 
-
-if (weatherInput==="a"){
-      $("#tryResult").text(aInput).show();
+ $(".clearcl").hide();
+if (weatherInput==="Tropical"){
+      $(".destination1").show();
+    alert("you should go to Thailand");
 }
- else if (foodInput==="b"){
-      $("tryResult").text(bInput).show();
+ else if (foodInput==="Spicy Asian flavors"){
+        $(".destination1").show();
     }
 else if (ambianceInput ==="c"){
       $("tryResult").text(cInput).show();

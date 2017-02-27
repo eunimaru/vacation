@@ -1,0 +1,20 @@
+@media screen and (max-width: 480px) aidth: 300px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width:300px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+git
+@media screen and (max-width:480px) {
+  body {
+    background-color: teal;
+  }
+}
